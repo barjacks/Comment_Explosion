@@ -8,3 +8,8 @@ Sites that are currently considered:
 * [Tages-Anzeiger](http://www.tagesanzeiger.ch)
 * [Watson] (http://www.watson.ch)
 
+## Update-Log:
+
+* Dealt with Tagi-Comment-Int-Problem
+* Using the site's Twitter handles
+
