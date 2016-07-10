@@ -8,6 +8,10 @@ Sites that are currently considered:
 * [Tages-Anzeiger](http://www.tagesanzeiger.ch)
 * [Watson] (http://www.watson.ch)
 * [Blick] (http://www.blick.ch)
+* [20 Minutes](http://www.20min.ch/ro/) (These are considered separately)
+
+Tweets for German language sites are posted at 800, 1200 and 1800 CET.
+Tweets for French language at 830, 1230, 1830 CET.
 
 ## Update-Log:
 
@@ -18,4 +22,8 @@ Sites that are currently considered:
 0.2
 * Added Blick
 * Now calculates the total comments (over all the site Frontpages) and returns the percentage of the top story.
+
+0.3
+* Added 20minutes
+* Added Tweets in French
 
