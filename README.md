@@ -7,9 +7,15 @@ Sites that are currently considered:
 * [20 Minuten](http://www.20min.ch)
 * [Tages-Anzeiger](http://www.tagesanzeiger.ch)
 * [Watson] (http://www.watson.ch)
+* [Blick] (http://www.blick.ch)
 
 ## Update-Log:
 
+0.1
 * Dealt with Tagi-Comment-Int-Problem
 * Using the site's Twitter handles
+
+0.2
+* Added Blick
+* Now works our the total Comments (over all the site Frontpages) and works out the percentage of the top story.
 
