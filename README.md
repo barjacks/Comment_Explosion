@@ -17,5 +17,5 @@ Sites that are currently considered:
 
 0.2
 * Added Blick
-* Now works out the total Comments (over all the site Frontpages) and works out the percentage of the top story.
+* Now calculates the total Comments (over all the site Frontpages) and works out the percentage of the top story.
 
