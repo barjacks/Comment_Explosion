@@ -1,6 +1,6 @@
 # Comment_Explosion
 
-A Twitter Bot that grabs the comments displayed on the frontpages of leading Swiss news sites, makes a list of them all, and has the highly sophisticated robot **cur_expl** tweet out the most commented piece [here](https://twitter.com/com_expl) with the average of comments per article at exactly 0800, 1200, 1700 and 2100 CET.
+A Twitter Bot that grabs the comments displayed on the frontpages of leading Swiss news sites, makes a list of them all, and has the highly sophisticated robot **com_expl** tweet out the most commented piece [here](https://twitter.com/com_expl) with the average of comments per article at exactly 0800, 1200, 1700 and 2100 CET.
 
 Sites that are currently considered:
 
